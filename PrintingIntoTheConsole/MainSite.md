@@ -15,5 +15,5 @@ get say
 To print out a message using **say** is by adding the following line to the file.
 
 ```ekg
-
+say Hello world from Ireland!
 ```
