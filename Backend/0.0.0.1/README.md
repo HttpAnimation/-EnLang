@@ -6,6 +6,7 @@ This version has the following things add
 Say allows you to say a data string.
 
 ```ekg
+say Hello world!
 ```
 
 2) run.sys.command
