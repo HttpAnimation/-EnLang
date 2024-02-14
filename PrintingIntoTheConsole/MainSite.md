@@ -10,3 +10,5 @@ The way you can import the **say** command is by making a new line and having a 
 ```ekg
 get say
 ```
+
+## Printing
