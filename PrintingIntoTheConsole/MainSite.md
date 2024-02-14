@@ -12,4 +12,4 @@ get say
 ```
 
 ## Printing
-To print out a message using **say**
+To print out a message using **say** is by adding the following line to the file.
