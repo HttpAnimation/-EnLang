@@ -20,6 +20,7 @@ To get started with [EnLang](https://github.com/HttpAnimation/-EnLang) read [her
 
 [say](https://github.com/HttpAnimation/-EnLang/blob/main/say/MainSite.md)
 
+[set.variable](https://github.com/HttpAnimation/-EnLang/tree/main/set.variable)
 
 ## Credits
 [FYC Rewrite V2](https://github.com/HttpAnimation/FYC-Rewrite-V2) | gh-pages.
