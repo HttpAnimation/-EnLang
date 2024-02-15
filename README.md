@@ -26,7 +26,7 @@ Remember even if a import has a [Python](https://www.python.org/) or other scrip
 
 [pip](https://github.com/HttpAnimation/-EnLang/tree/main/pip)
 
-[pysnip]()
+[pysnip](https://github.com/HttpAnimation/-EnLang/tree/main/pysnip)
 
 ## Credits
 [FYC Rewrite V2](https://github.com/HttpAnimation/FYC-Rewrite-V2) | gh-pages.
