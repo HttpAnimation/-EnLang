@@ -16,6 +16,8 @@ To get started with [EnLang](https://github.com/HttpAnimation/-EnLang) read [her
 
 [run.py.script](https://github.com/HttpAnimation/-EnLang/blob/main/run.py.script/MainSite.md)
 
+[run.sys.command](https://github.com/HttpAnimation/-EnLang/blob/main/run.sys.command/BaseMD.md)
+
 
 ## Credits
 [FYC Rewrite V2](https://github.com/HttpAnimation/FYC-Rewrite-V2) | gh-pages.
