@@ -21,7 +21,7 @@ body {
     padding: 20px;
 }
 
-.button {
+.movie-button {
     display: block;
     margin-top: 10px;
     padding: 10px;
@@ -33,7 +33,24 @@ body {
     transition: transform 0.3s ease-in-out;
 }
 
-.button:hover {
+.source-button {
+    display: block;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #333;
+    color: #ffffff;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+}
+
+
+.source-button:hover {
+    transform: scale(1.05);
+}
+
+.movie-button:hover {
     transform: scale(1.05);
 }
 
@@ -50,4 +67,9 @@ a:hover {
     text-decoration: underline;
 }
 
-
+.error-message {
+    background-color: #ff6347; 
+    color: #ffffff; 
+    padding: 10px;
+    margin-bottom: 10px;
+}
