@@ -11,7 +11,8 @@ class EKGInterpreter:
             "run.sys.command": self.run_sys_command,
             "open.browser": self.open_browser,
             "run.py.script": self.run_python_script,
-            "ask.question": self.ask_question
+            "ask.question": self.ask_question,
+            "set.variable": self.set_variable
         }
 
     def interpret(self, filename):
@@ -52,6 +53,10 @@ class EKGInterpreter:
     def ask_question(self, question):
         response = input(question + " ")
         self.variables['response'] = response
+
+    def set_variable(self, assignment):
+        variable, value = assignment.split("=")
+        self.variables[variable.strip()] = value.strip()
 
 if __name__ == "__main__":
     interpreter = EKGInterpreter()
