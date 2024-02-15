@@ -2,9 +2,9 @@ cd ~/Desktop
 mkdir EnLang
 cd EnLang
 git clone -b main https://github.com/HttpAnimation/-EnLang.git
-mv -EnLang main
+mv -- -EnLang main
 git clone -b blank https://github.com/HttpAnimation/-EnLang.git
-mv -EnLang blank
+mv -- -EnLang blank
 git clone -b gh-pages https://github.com/HttpAnimation/-EnLang.git
-mv -EnLang gh-pages
+mv -- -EnLang gh-pages
 echo "Done"
