@@ -1,0 +1,5 @@
+get run.sys.command
+get say
+
+say Upadteing the fedora based system
+run.sys.command sudo dnf update
