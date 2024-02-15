@@ -24,7 +24,7 @@ Remember even if a import has a [Python](https://www.python.org/) or other scrip
 
 [set.variable](https://github.com/HttpAnimation/-EnLang/tree/main/set.variable)
 
-[pip]()
+[pip](https://github.com/HttpAnimation/-EnLang/tree/main/pip)
 
 [pysnip]()
 
