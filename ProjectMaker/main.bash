@@ -18,9 +18,7 @@ wget https://raw.githubusercontent.com/HttpAnimation/-EnLang/main/ProjectMaker/m
 cd ..
 
 # Download BaseSystem.py
-release_url="https://github.com/HttpAnimation/-EnLang/releases"
-download_url=$(curl -s $release_url | grep -o -m 1 "https://github.com/HttpAnimation/-EnLang/releases/download/.*/BaseSystem.py")
-wget $download_url
+wget https://github.com/HttpAnimation/-EnLang/releases/download/0.0.0.9/BaseSystem.py
 
 # Navigate back to the initial directory
 cd ..
