@@ -22,5 +22,8 @@ To get started with [EnLang](https://github.com/HttpAnimation/-EnLang) read [her
 
 [set.variable](https://github.com/HttpAnimation/-EnLang/tree/main/set.variable)
 
+[pip]()
+
+[pysnip]()
 ## Credits
 [FYC Rewrite V2](https://github.com/HttpAnimation/FYC-Rewrite-V2) | gh-pages.
