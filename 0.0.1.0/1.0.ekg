@@ -1,7 +1,7 @@
 get pip
-pip flask
-
 get pysnip
+
+pip flask
 pysnip -//
 from flask import Flask
 
