@@ -25,7 +25,7 @@ This page will go over how to make a project using **ekg**
 
 5) Make a new **ekg** file called **main.ekg** file in the public folder.
 
-6) Open up a IDE and get coding.
+6) Open up a IDE and get coding all ekg's should be in the the public folder or sub folders.
     ```bash
     code .
     ```
