@@ -18,7 +18,7 @@ To get started with [EnLang](https://github.com/HttpAnimation/-EnLang) read [her
 
 [run.sys.command](https://github.com/HttpAnimation/-EnLang/blob/main/run.sys.command/BaseMD.md)
 
-[say](say)
+[say](https://github.com/HttpAnimation/-EnLang/blob/main/say/MainSite.md)
 
 
 ## Credits
