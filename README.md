@@ -10,5 +10,7 @@ To get started with [EnLang](https://github.com/HttpAnimation/-EnLang) read [her
 ## Documation
 [ask.question](https://github.com/HttpAnimation/-EnLang/blob/main/ask.question/README.md) 
 
+[open.browser](https://github.com/HttpAnimation/-EnLang/blob/main/open.browser/README.md)
+
 ## Credits
 [FYC Rewrite V2](https://github.com/HttpAnimation/FYC-Rewrite-V2) | gh-pages.
