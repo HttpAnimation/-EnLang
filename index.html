@@ -8,7 +8,7 @@
 </head>
 <body>
     <div id="md-content">
-        <md-block>
+        <md-block id="md-block">
 
         </md-block>
     </div>
@@ -20,7 +20,7 @@
                 .then(response => response.text())
                 .then(text => {
                     // Insert Markdown file contents into the designated div
-                    document.getElementById('md-content').innerText = text;
+                    document.getElementById('md-block').innerText = text;
                 })
                 .catch(error => {
                     console.error('Error fetching Markdown file:', error);
