@@ -58,7 +58,7 @@ class EKGInterpreter:
         try:
             exec(open(script_name).read(), globals())
         except Exception as e:
-            print(f"Error running Python script: {e}")
+            print(f"Error running Python script make sure you have the python path: {e}")
 
     def ask_question(self, question):
         response = input(question + " ")
