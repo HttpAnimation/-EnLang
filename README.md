@@ -14,6 +14,8 @@ To get started with [EnLang](https://github.com/HttpAnimation/-EnLang) read [her
 
 [random.value](https://github.com/HttpAnimation/-EnLang/blob/main/random.value/README.md)
 
+[run.py.script](https://github.com/HttpAnimation/-EnLang/blob/main/run.py.script/MainSite.md)
+
 
 ## Credits
 [FYC Rewrite V2](https://github.com/HttpAnimation/FYC-Rewrite-V2) | gh-pages.
