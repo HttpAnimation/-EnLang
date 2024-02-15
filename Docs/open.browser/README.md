@@ -12,3 +12,6 @@ To use open.browser add the line.
 ```ekg
 open.browser
 ```
+once added put the end of the url into it to be opened.
+
+## EXP
