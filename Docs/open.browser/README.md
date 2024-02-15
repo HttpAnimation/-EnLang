@@ -6,3 +6,5 @@ To import open.browser add the following to your ekg file.
 ```ekg
 get open.browser
 ```
+
+## Usage
