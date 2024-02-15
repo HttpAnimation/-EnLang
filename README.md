@@ -1,5 +1,5 @@
 # -EnLang
-A code languge built made so easy that you can talk into a mic to code.
+A scripting lanuge that is made to be easy to write and compiled with out errors.
 
 ## How it works
 EnLang uses a python3 backend to make sure it works on all unix based systems.
