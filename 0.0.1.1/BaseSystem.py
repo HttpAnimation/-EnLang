@@ -34,7 +34,7 @@ class EKGInterpreter:
                     if len(tokens) >= 2:
                         self.imported_commands.add(tokens[1])
                     else:
-                        print("Invalid import statement")
+                        print("Invalid get statement:")
                 else:
                     command = tokens.pop(0)
                     if command in self.imported_commands:
