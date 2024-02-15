@@ -1,5 +1,5 @@
 # Making a new project
-This page will go over how to make a project using **ekg**
+This page will go over how to make a project using **ekg**.
 
 1) Make a new folder with the name of your project try to avoid spaces.
     ```bash
