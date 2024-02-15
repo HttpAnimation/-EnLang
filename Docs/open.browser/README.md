@@ -8,3 +8,7 @@ get open.browser
 ```
 
 ## Usage
+To use open.browser add the line.
+```ekg
+open.browser
+```
