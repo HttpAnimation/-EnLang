@@ -31,4 +31,4 @@ This page will go over how to make a project using **ekg**
     ```
 
 ## Cloned project
-If you would like to to see how a project should look like when fully done head [here]()
+If you would like to to see how a project should look like when fully done head [here](https://github.com/HttpAnimation/-EnLang/tree/main/Exp-EnLang).
