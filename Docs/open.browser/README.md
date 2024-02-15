@@ -18,5 +18,5 @@ once added put the end of the url into it to be opened.
 Here is an expmale on a file going to **localhost://8080**
 ```ekg
 get open.browser
-open.browser localhost://
+open.browser localhost://8080
 ```
