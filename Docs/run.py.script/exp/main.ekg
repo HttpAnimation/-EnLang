@@ -1,0 +1,6 @@
+get run.py.script
+get say
+
+say starting script
+run.py.script script.py
+get done running
