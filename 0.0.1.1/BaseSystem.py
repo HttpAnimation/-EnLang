@@ -104,7 +104,7 @@ if __name__ == "__main__":
         print(f"Error reading About.json: {e}")
         sys.exit()
 
-    print(f"Running {project_name} version {project_version}")
+    print(f"Running {project_name} running with version {project_version}")
 
     # Interpret the EKG file
     interpreter.interpret(ekg_file)
