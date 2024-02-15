@@ -29,4 +29,4 @@ Remember even if a import has a [Python](https://www.python.org/) or other scrip
 [pysnip](https://github.com/HttpAnimation/-EnLang/tree/main/pysnip)
 
 ## Credits
-[FYC Rewrite V2](https://github.com/HttpAnimation/FYC-Rewrite-V2) | gh-pages.
+[FYC Rewrite V2](https://github.com/HttpAnimation/FYC-Rewrite-V2).
