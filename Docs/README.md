@@ -1,2 +1,0 @@
-# Docs
-These files are ment to be enbed onto a site using a [md-block](https://md-block.verou.me/) and not ment to be read on this page sorry lynx devs :`0 you can still use the docs tho with the gh-pages site once done. 
