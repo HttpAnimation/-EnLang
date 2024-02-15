@@ -55,13 +55,6 @@ img {
     transform: scale(1.1);
 }
 
-.error-message {
-    background-color: #ff6347;
-    color: #ffffff;
-    padding: 10px;
-    margin-bottom: 10px;
-}
-
 #content {
     margin-left: 270px; 
     padding: 20px;
