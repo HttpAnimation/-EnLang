@@ -1,0 +1,12 @@
+get say
+get run.sys.command
+get open.browser
+get run.py.script
+get ask.question
+
+say Hello, World!
+run.sys.command ls -l
+open.browser https://www.example.com
+
+ask.question What is your name?
+say Nice to meet you, {response}!
