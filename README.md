@@ -8,6 +8,8 @@ The backend of EnLang is based off python and when ever you run the script for y
 To get started with [EnLang](https://github.com/HttpAnimation/-EnLang) read [here](https://github.com/HttpAnimation/-EnLang/blob/main/Making%20a%20new%20project/README.md) to make your starting project.
 
 ## Documation
+Remember even if a import has a [python](https://www.python.org/) or other script with the same name does not mean it will work the same. 
+
 [ask.question](https://github.com/HttpAnimation/-EnLang/blob/main/ask.question/README.md) 
 
 [open.browser](https://github.com/HttpAnimation/-EnLang/blob/main/open.browser/README.md)
