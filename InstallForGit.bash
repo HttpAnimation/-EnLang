@@ -1,6 +1,6 @@
 cd ~/Desktop
 mkdir EnLang
-cd EnLand
+cd EnLang
 git clone -b main https://github.com/HttpAnimation/-EnLang.git
 mv -EnLang main
 git clone -b blank https://github.com/HttpAnimation/-EnLang.git
