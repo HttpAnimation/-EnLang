@@ -18,7 +18,7 @@ wget https://raw.githubusercontent.com/HttpAnimation/-EnLang/main/ProjectMaker/m
 cd ..
 
 # Download BaseSystem.py
-wget https://github.com/HttpAnimation/-EnLang/releases/download/0.0.0.9/BaseSystem.py
+wget https://github.com/HttpAnimation/-EnLang/releases/download/0.0.1.0/BaseSystem.py
 
 # Navigate back to the initial directory
 cd ..
