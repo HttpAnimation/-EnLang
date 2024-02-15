@@ -4,8 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Markdown File Display</title>
-    <!-- Include Markdown.js from CDN -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it/12.0.6/markdown-it.min.js"></script>
 </head>
 <body>
     <div id="md-content">
@@ -13,21 +11,13 @@
     </div>
 
     <script>
-        // Function to fetch and render Markdown file
-        function renderMarkdownFile(filePath) {
-            // Use a proxy server to bypass CORS restrictions
-            const proxyUrl = 'https://cors-anywhere.herokuapp.com/';
-            const url = proxyUrl + filePath;
-
-            fetch(url)
+        // Function to fetch and insert Markdown file contents
+        function insertMarkdownFileContents(filePath) {
+            fetch(filePath)
                 .then(response => response.text())
                 .then(text => {
-                    // Convert Markdown to HTML using Markdown.js
-                    const md = window.markdownit();
-                    const htmlContent = md.render(text);
-
-                    // Insert HTML content into the designated div
-                    document.getElementById('md-content').innerHTML = htmlContent;
+                    // Insert Markdown file contents into the designated div
+                    document.getElementById('md-content').innerText = text;
                 })
                 .catch(error => {
                     console.error('Error fetching Markdown file:', error);
@@ -35,7 +25,7 @@
         }
 
         // Call the function with the path to your Markdown file
-        renderMarkdownFile('https://raw.githubusercontent.com/HttpAnimation/-EnLang/main/Docs/open.browser/README.md');
+        insertMarkdownFileContents('https://raw.githubusercontent.com/HttpAnimation/-EnLang/main/Docs/open.browser/README.md');
     </script>
 </body>
 </html>
