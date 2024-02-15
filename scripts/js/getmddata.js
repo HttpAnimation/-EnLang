@@ -12,4 +12,4 @@ function insertMarkdownFileContents(filePath) {
 }
 
 // Call the function with the path to your Markdown file
-insertMarkdownFileContents('https://raw.githubusercontent.com/HttpAnimation/-EnLang/main/Docs/open.browser/README.md');
+insertMarkdownFileContents('https://raw.githubusercontent.com/HttpAnimation/-EnLang/main/README.md');
