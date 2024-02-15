@@ -1,0 +1,5 @@
+get say
+get random.value
+
+say Hello world, here's some random text:
+say + random.value 10
