@@ -1,0 +1,29 @@
+get say
+get run.sys.command
+get open.browser
+get run.py.script
+get ask.question
+get set.variable
+
+# Using various elements
+
+say Welcome to the EKG demo!
+
+# Asking a question
+ask.question What is your name?
+
+# Setting a variable
+set.variable greeting = Hello
+set.variable name = {response}
+
+# Using variables in a command
+say + {greeting}, {name}!
+
+# Running a system command
+run.sys.command ls -l
+
+# Opening a browser
+open.browser https://www.example.com
+
+# Running a Python script
+run.py.script example_script.py
