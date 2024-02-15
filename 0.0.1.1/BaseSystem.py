@@ -43,7 +43,7 @@ class EKGInterpreter:
                         else:
                             print(f"Unknown command: {command}")
                     else:
-                        print(f"Command not imported: {command}")
+                        print(f"Command not installed: {command}")
 
     def say(self, message):
         print(message)
