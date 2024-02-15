@@ -8,7 +8,7 @@ To use `pysnip` in your EKG file, add the following markers to delimit the Pytho
 
 ```ekg
 pysnip -//
-// Python code snippet here
+ print("Python code snippet here")
 //-//
 ```
 
